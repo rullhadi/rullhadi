@@ -4,8 +4,10 @@ Drafter CAD | Self-Hoster | Homelab Enthusiast
 
 Saya seorang Drafter di bidang Industri Maritime yang memiliki hobby mengulik seputar Homelab 
 
+<head>
+  <meta name="google-site-verification" content="Kq_udByW-Idptn9Op7Tx8zBoFB-pul3kMcoRLr4HqBM" />
+</head>
 
-<meta name="google-site-verification" content="Kq_udByW-Idptn9Op7Tx8zBoFB-pul3kMcoRLr4HqBM" />
 <!--
 **rullhadi/rullhadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
