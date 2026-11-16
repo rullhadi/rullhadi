@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi there 👋, I am Muhammad Khoirul Hadi
+
+Drafter CAD | Self-Hoster |
+
+Saya seorang Drafter di bidang Industri Maritime yang memiliki hobby mengulik seputar Homelab 
 
 <!--
 **rullhadi/rullhadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
